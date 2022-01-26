@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"cc.carm.plugin.easysql.api","c":"EasySQLAPI","l":"EasySQLAPI()","url":"%3Cinit%3E()"},{"p":"cc.carm.plugin.easysql.api","c":"EasySQLAPI","l":"getSQLManager(String)","url":"getSQLManager(java.lang.String)"}]
